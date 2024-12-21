@@ -10,7 +10,6 @@
 </head>
 <body>
 <section>
-
 <div class="container">
   <h2>Friendship Form</h2>            
   <table class="table table-bordered">
@@ -55,28 +54,19 @@
           <hr>
           <label for="name"><p>Name</p></label>
           <input type="text" placeholder="Enter Full name" name="name" id="name">
-      
           <label for="email"><p>Email</p></label>
           <input type="text" placeholder="Enter Email" name="email" id="email">
-
           <label for="number"><p>Phone number</p></label>
           <input type="number" Placeholder="Enter Number" name="number" id="number">
-
           <label for="address"><p>Address</p></label>
           <input placeholder="Enter Address" name="address" id="address">
-
           <label for="business"><p>Business Category</p></label>
           <input type="radio-button" placeholder="select business category" name="business" id="business">
         </section>
-      
         </hr>
-
     </form>
-
 </div>
-
 <section>
-
     <div class="container">
       <h2>List of Friends</h2>            
       <table class="table table-bordered">
@@ -91,12 +81,10 @@
           <tr>
             <td>Email</td>
             <td><input type="text" ></td>
-        
           </tr>
           <tr>
             <td>Contact</td>
             <td><input type="text"></td>
-          
           </tr>
           <tr>
             <td>Gender</td>
@@ -104,12 +92,10 @@
               <label for="gender1">Male</label><br>
             <input type="checkbox" id="gender2" name="gender2" value="Female">
             <label for="gender2">Female</label><br> </td>
-           
           </tr>
           <tr>
             <td>Address</td>
             <td><input type="text"></td>
-           
           </tr>
           <tr>
             <td>Business Category</td>
